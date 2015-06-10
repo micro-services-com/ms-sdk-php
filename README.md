@@ -1,5 +1,5 @@
 # ms-sdk-php
-PHP-SDK to access the micro services
+PHP-SDK to access micro services
 
 ## Requirements
 
@@ -14,7 +14,7 @@ use \mssdk\LoyaltyServiceClient;
 
 // loyalty service application id
 $applicationId = "[CHANGE-ME]";
-// generate an api key and secret at application.micro-services.com 
+// generate an api key and secret at https://application.micro-services.com 
 $key = '[CHANGE-ME]';
 $secret = '[CHANGE-ME]';
 
